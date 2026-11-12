@@ -4,7 +4,7 @@
 
 Workflow od produktového podnětu nebo incidentu přes přípravu a ověření změny až po schválení, nasazení, aktualizaci dokumentace a uzavření ticketu.
 
-[**Otevřít interaktivní mapu pipeline**](https://petrsovadina.github.io/neoviia-tmobile-pipeline/)
+[**Otevřít interaktivní mapu pipeline**](https://petrsovadina.github.io/neoviia-tmobile-pipeline/) · [**Otevřít workspace v Excalidraw**](https://link.excalidraw.com/readonly/EQ2ran09hmhmm6js0OJk)
 
 ## Pipeline v kostce
 
